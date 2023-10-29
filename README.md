@@ -1,7 +1,3 @@
-# Time-Series-Analysis-Yahoo-stock-price
-
-Here is a sample README for this time series analysis project:
-
 # Time Series Analysis of Yahoo Stock Prices
 
 This project performs time series analysis on Yahoo stock price data to identify trends, seasonality, and other patterns.
