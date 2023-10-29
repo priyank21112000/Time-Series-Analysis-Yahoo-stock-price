@@ -37,8 +37,6 @@ The analysis requires the following Python packages:
 - matplotlib
 - statsmodels
 
-The code is implemented in a Jupyter notebook - `yahoo_stock_analysis.ipynb`.
-
 ## Usage
 
 To use this analysis, simply clone the repository and run the Jupyter notebook. The notebook walks through the step-by-step process for loading, visualizing, and decomposing the Yahoo stock price time series.
